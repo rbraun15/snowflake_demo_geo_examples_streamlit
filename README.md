@@ -9,14 +9,16 @@
 - Access Snowflake Marketplace for address data
 - Join tables to create SILVER layer
 - Create interactive map
-<br>
-<br>
-  **This is not real Florida data**
-<br>
-  ## Find expired registrations and visualize data on an interactive map
-  <br>
-  <br>
-  **Synthetic data for demo purposes**
+  
+### This is not real Florida data
+### Synthetic data for demo purposes
+
+
+
+**Install:**
+- Import FL_DHS_MV_EXPIRED_REGISTRATIONS_GEO_DEMO.ipynb into Snowflke notebooks
+
+
 <br>
 <br>
 <img width="732" alt="image" src="https://github.com/user-attachments/assets/5f928e3c-c366-4d42-9901-dfabceefcf03">
