@@ -1,5 +1,8 @@
 ## Find expired registrations and visualize data on an interactive map
 
+**Purpose:**
+- This demo contains real working examples of visualizing geo data in maps
+- Use this demo as is or as a source of simple working examples of mapping capabilities
 
 **Concepts:**
 - Run SQL and python in Snowflake notebook
@@ -10,13 +13,14 @@
 - Join tables to create SILVER layer
 - Create interactive map
   
+**Install:**
+- Import FL_DHS_MV_EXPIRED_REGISTRATIONS_GEO_DEMO.ipynb into Snowflake notebooks
+- Reveiw the narrative in cellls and run as desired
+
 ### This is not real Florida data
 ### Synthetic data for demo purposes
 
 
-
-**Install:**
-- Import FL_DHS_MV_EXPIRED_REGISTRATIONS_GEO_DEMO.ipynb into Snowflke notebooks
 
 
 <br>
