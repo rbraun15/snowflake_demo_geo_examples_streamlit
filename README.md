@@ -2,7 +2,7 @@
 
 **Purpose:**
 - This demo contains real working examples of visualizing geo data in maps
-- Use this demo as is or as a source of simple working examples of mapping capabilities
+- Use this demo as is or as a source of simple working examples of Streamlit mapping capabilities
 
 **Concepts:**
 - Run SQL and python in Snowflake notebook
@@ -11,7 +11,7 @@
 - Create tables in RAW layer
 - Access Snowflake Marketplace for address data
 - Join tables to create SILVER layer
-- Create interactive map
+- Create interactive maps incorporating layers - H3HexagonLayer, ScatterplotLayer, ArcLayer, PathLayer and TextLayer.
   
 **Install:**
 - Import GEOSPATIAL_DEMO_STREAMLIT_EXAMPLES.ipynb into Snowflake notebooks
