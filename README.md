@@ -14,7 +14,7 @@
 - Create interactive map
   
 **Install:**
-- Import FL_DHS_MV_EXPIRED_REGISTRATIONS_GEO_DEMO.ipynb into Snowflake notebooks
+- Import GEOSPATIAL_DEMO_STREAMLIT_EXAMPLES.ipynb into Snowflake notebooks
 - Reveiw the narrative in cellls and run as desired
 
 ### This is not real Florida data
